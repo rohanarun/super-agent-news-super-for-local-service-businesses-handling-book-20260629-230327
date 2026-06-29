@@ -1,0 +1,27 @@
+{
+  "citations": [
+    "[blog.google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/)",
+    "[blog.google](https://blog.google/innovation-and-ai/products/gemini-app/gemini-features-for-businesses/)",
+    "[magnet-media.io](https://magnet-media.io/blog/google-io-2026-gemini-intelligence-agentic-ai-service-business-bookings)",
+    "[thenextweb.com](https://thenextweb.com/news/google-gemini-3-5-flash-computer-use-built-in-tool)",
+    "[searchenginejournal.com](https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer-hackers-are-already-targeting-ai-agents/)",
+    "[forbes.com](https://www.forbes.com/sites/)"
+  ],
+  "design_plan": "rng=42; hero_math=2.4_lines@1120px; aida=pass; bento_density=grid-auto-flow:dense; labels_checked; button_contrast=ink/white pass",
+  "generated_at": "2026-06-29T23:03:34.394637+00:00",
+  "headline": "Super for local service businesses handling bookings, quotes, and customer replies",
+  "site_brief": {
+    "audience": "local service businesses handling bookings, quotes, and customer replies",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "local service businesses handling bookings, quotes, and customer replies AI assistant",
+      "local service businesses handling bookings, quotes, and customer replies personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-local-service-businesses-handling-bookings-quote",
+    "title": "Super for local service businesses handling bookings, quotes, and customer replies"
+  },
+  "summary": "A conversion-focused niche landing page that shows how Super helps plumbers, HVAC teams, med spas, cleaners, and other local service businesses handle bookings, quotes, and customer replies using real computer\u2011operating AI agents. Grounded in current market evidence around Gemini\u2019s agentic push and booking automation, the page positions Super as the sharper alternative for repeated operational work thanks to its reusable computer-use cache."
+}
